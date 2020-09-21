@@ -1,1 +1,1 @@
-# vim_colors
+# vim colors
